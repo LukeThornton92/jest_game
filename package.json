@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/LukeThornton92/jest_game/issues"
   },
-  "homepage": "https://github.com/LukeThornton92/jest_game#readme",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  }
+  "homepage": "https://github.com/LukeThornton92/jest_game#readme"
 }
